@@ -3,7 +3,4 @@
 
 
 ## Repository Information
-{
-  "DASCommitID": "e3f58320d1c63bef48390dfd8f49ece72c7e3d87",
-  "WebConsoleCommitID": "4fdea58897d80d445c50dd2b020f8f08d49d9bf1"
-}
+"```c\n{\n  \"WebConsoleCommitID\": \"4fdea58897d80d445c50dd2b020f8f08d49d9bf1\",\n  \"CommitID\": \"2f0ef980957959e051a991305fe1ba21c48e43f1\"\n}\n```"
