@@ -6,7 +6,7 @@
 ```c
 {
   "FirmwareMits10": "db6a4c069105d2f7a8cf77384ffdff2d68cfea31",
-  "CommitID": "76e4e320baa7c3c202aa868ac4e7e523aace2549",
+  "CommitID": "a178b7e40f8c0ef2c7e9a1126fb59bc0c59f64a9",
   "WebConsoleCommitID": "4fdea58897d80d445c50dd2b020f8f08d49d9bf1"
 }
 ```
