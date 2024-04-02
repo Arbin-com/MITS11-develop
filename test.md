@@ -5,8 +5,8 @@
 ## Repository Information
 ```c
 {
+  "CommitID": "b116388c43153f1809a96491a7d2b346bf287dc7",
   "FirmwareMits10": "db6a4c069105d2f7a8cf77384ffdff2d68cfea31",
-  "WebConsoleCommitID": "4fdea58897d80d445c50dd2b020f8f08d49d9bf1",
-  "CommitID": "a178b7e40f8c0ef2c7e9a1126fb59bc0c59f64a9"
+  "WebConsoleCommitID": "4fdea58897d80d445c50dd2b020f8f08d49d9bf1"
 }
 ```
